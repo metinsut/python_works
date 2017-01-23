@@ -1,0 +1,2 @@
+kardiz="€"
+print(len(kardiz))

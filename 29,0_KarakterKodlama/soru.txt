@@ -1,0 +1,26 @@
+teamspeak.buraksakarya.com
+115792
+
+soru1-pycharm seçili öðeleri comment yapma.
+soru2-django ve detaylar.
+soru3-internet ad ve server alma, hazýrlanmýþ siteyi internete yükleme.
+soru4-hazýr kod kullanma ve internetten hazýr kod bulma.
+soru5-html ve css için baþlangýç derleyici önerisi(yada altarnatif web sayfasý üretimi araçlarý).
+soru6-Github kullanýmý.
+
+
+
+
+
+
+soru7-liste=[[1, 2, 3],[4, 5, 6],[7, 8, 9],[10, 11, 12]]
+
+tümü=[]
+for i in liste:
+    for z in i:
+        tümü+=[z]
+print(tümü)
+
+
+tümü=[z for i in liste for z in i if z]
+print(tümü)
