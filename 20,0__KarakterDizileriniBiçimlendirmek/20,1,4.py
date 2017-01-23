@@ -1,0 +1,1 @@
+print("depoda %(miktar)s kilo %(ürün)s kaldı" %{"miktar": 25,"ürün":"elma"})

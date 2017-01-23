@@ -1,0 +1,1 @@
+print('{:{align}{width}}'.format('test', align='^', width='10'))

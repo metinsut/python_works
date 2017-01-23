@@ -1,0 +1,1 @@
+print("metin\tfırat\tpinar\tdidem".expandtabs(20))

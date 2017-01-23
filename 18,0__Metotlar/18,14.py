@@ -1,0 +1,1 @@
+print("metin".encode("cp1254"))
