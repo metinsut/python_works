@@ -1,0 +1,5 @@
+<_io.TextIOWrapper name='ciddi misin.txt' mode='w' encoding='cp1254'>
+Metin Süt
+Ýstanbul/Beykoz
+Python öðreniyor
+Bunu yaz lan dosyanýn içine
